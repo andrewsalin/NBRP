@@ -6,7 +6,7 @@
    height="1050px"
    version="1.1"
    id="svg6"
-   sodipodi:docname="園區9米道路樹木1.svg"
+   sodipodi:docname="NBRP_9Meter.svg"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -59,7 +59,7 @@
      inkscape:deskcolor="#d1d1d1"
      showguides="false"
      inkscape:zoom="0.72952381"
-     inkscape:cx="707.99608"
+     inkscape:cx="726.50131"
      inkscape:cy="531.85379"
      inkscape:window-width="1920"
      inkscape:window-height="986"
@@ -74,14 +74,8 @@
      id="image1"
      x="0"
      y="0"
-     clip-path="url(#clipPath116)" />
-  <image
-     x="515"
-     y="855"
-     width="64"
-     height="82"
-     xlink:href="Image1.jpg"
-     id="image2" />
+     clip-path="url(#clipPath116)"
+     sodipodi:insensitive="true" />
   <a
      id="a46"
      xlink:href="https://kplant.atfr.org.tw/%E5%9C%9F%E8%82%89%E6%A1%82/%E5%9C%9F%E8%82%89%E6%A1%82.htm"
@@ -486,10 +480,12 @@
   <a
      id="a28"
      xlink:href="https://ecoacademia.org/site/species.jsf?id=4,21"
-     target="_blank">
+     target="_blank"
+     transform="matrix(1.3122532,0,0,1,-109.87694,-10.966057)"
+     style="stroke-width:0.872954">
     <text
        id="TEXT20"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.8419px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000099;stroke-width:0.999997"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.8419px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000099;stroke-width:0.872951"
        xml:space="preserve"
        x="454.7774"
        y="678.39862"
@@ -498,12 +494,12 @@
          id="tspan35"
          x="454.7774"
          y="678.39862"
-         style="stroke-width:0.999997">血</tspan><tspan
+         style="stroke-width:0.872951">血</tspan><tspan
          sodipodi:role="line"
          id="tspan36"
          x="454.7774"
-         y="702.19287"
-         style="stroke-width:0.999997">桐</tspan></text>
+         y="702.19293"
+         style="stroke-width:0.872951">桐</tspan></text>
   </a>
   <text
      id="TEXT21"
@@ -569,7 +565,8 @@
   <a
      id="a29"
      xlink:href="https://ecoacademia.org/site/species.jsf?id=1,22"
-     target="_blank">
+     target="_blank"
+     transform="translate(1.3707572,-9.5953002)">
     <text
        id="TEXT25"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000099"
@@ -1032,7 +1029,7 @@
          sodipodi:role="line"
          id="tspan131"
          x="204.33908"
-         y="1017.209"></tspan></text>
+         y="1017.209" /></text>
   </a>
   <a
      id="a42"
@@ -1054,13 +1051,15 @@
          y="915.41211">冬</tspan></text>
   </a>
   <path
-     d="m 555.55 498.2l -117.73 62.6 -20.03 -37.67 117.73 -62.6 20.03 37.67 z"
+     d="m 555.55,498.2 -117.73,62.6 -20.03,-37.67 117.73,-62.6 z"
      id="PATH51"
-     style="fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:100" />
+     style="display:inline;fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:100"
+     sodipodi:insensitive="true" />
   <path
-     d="m 579.33 924l -49.33 0 0 -62.67 49.33 0 0 62.67 z"
+     d="m 582.07153,929.48306 h -57.55455 v -66.78227 h 57.55455 z"
      id="PATH53"
-     style="fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:100" />
+     style="fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:100"
+     sodipodi:insensitive="true" />
   <a
      id="a36"
      xlink:href="https://ecoacademia.org/site/species.jsf?id=2,130"
@@ -1207,4 +1206,9 @@
      xml:space="preserve"
      id="text97"
      style="font-weight:bold;font-size:21.8897px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';white-space:pre;shape-inside:url(#rect97);display:inline" />
+  <path
+     d="m 746.56232,516.78693 -61.7037,20.45142 -13.67063,-29.46547 61.70368,-20.45139 z"
+     id="path1"
+     style="fill:none;stroke:#000000;stroke-width:4.00001;stroke-miterlimit:100"
+     sodipodi:insensitive="true" />
 </svg>
