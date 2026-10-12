@@ -33,7 +33,8 @@
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1" />
+     inkscape:current-layer="g1"
+     showguides="true" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
@@ -1033,33 +1034,22 @@
        id="a131"
        xlink:href="https://ecoacademia.org/site/species.jsf?id=1,158"
        target="_blank"
-       transform="translate(-0.06081975,-1.2609174)">
+       transform="matrix(1.0000206,0,0,1,-0.61473483,-14.353065)"
+       style="stroke-width:0.99999">
       <text
          id="TEXT48"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000099"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:37.0306;fill:#000099;stroke-width:0.99999"
          xml:space="preserve"
          x="204.33908"
          y="901.69"><tspan
-           sodipodi:role="line"
-           id="tspan100"
            x="204.33908"
-           y="901.69">雀</tspan><tspan
-           sodipodi:role="line"
-           id="tspan128"
+           y="901.69"
+           id="tspan2">雀
+</tspan><tspan
            x="204.33908"
-           y="931.02966">榕</tspan><tspan
-           sodipodi:role="line"
-           id="tspan129"
-           x="204.33908"
-           y="960.36932">(絞殺</tspan><tspan
-           sodipodi:role="line"
-           id="tspan130"
-           x="204.33908"
-           y="989.70898">大葉桉)</tspan><tspan
-           sodipodi:role="line"
-           id="tspan131"
-           x="204.33908"
-           y="1017.209" /></text>
+           y="931.02966"
+           id="tspan3">榕
+</tspan></text>
     </a>
     <a
        id="a42"
@@ -1243,7 +1233,24 @@
        width="67.465851"
        height="48.718266"
        x="522.29443"
-       y="852.79144"
-       ry="7.3002915" />
+       y="852.79144" />
+    <a
+       id="a9"
+       target="_blank"
+       xlink:href="https://www.facebook.com/reel/1562583865474917">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:145.161;fill:#000080"
+         x="182.03033"
+         y="968.17902"
+         id="text2"
+         transform="translate(-16.42639,-4.878938)"><tspan
+           x="182.03033"
+           y="968.17902"
+           id="tspan4">(雀榕纏勒絞殺</tspan><tspan
+           x="182.03033"
+           y="997.61053"
+           id="tspan5">大葉桉)</tspan></text>
+    </a>
   </g>
 </svg>
